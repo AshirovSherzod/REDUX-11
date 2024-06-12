@@ -1,0 +1,8 @@
+.nav {
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    &__list {
+        gap: 15px;
+    }
+}

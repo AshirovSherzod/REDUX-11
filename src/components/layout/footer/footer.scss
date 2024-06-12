@@ -1,0 +1,11 @@
+.footer {
+    background-color: #EBEDEE;
+    padding: 30px;
+    div {
+        ul {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+    }
+}
